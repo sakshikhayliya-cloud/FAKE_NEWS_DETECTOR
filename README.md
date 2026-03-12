@@ -23,7 +23,7 @@ fake news articles using NLP and TF-IDF.
 - Detects Fake or Real news
 - GUI to enter and check news
 - Results saved in SQL database
-- 96.75% accuracy
+- 98.57% accuracy
 
 ## How to Run
 1. Install requirements:
